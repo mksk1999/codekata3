@@ -1,5 +1,5 @@
-a,b= list(map(str,input().split()))
-if b in a:
+aar,bbbr= list(map(str,input().split()))
+if bbbr in aaar:
   print("yes")
 else:
   print("no")
